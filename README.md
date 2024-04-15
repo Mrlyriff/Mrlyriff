@@ -18,7 +18,7 @@ Bem, para ser honesta, estou interessado em desenvolvimento de software e, embor
 
 ## Contatos:
 <div>
-<a href="https://instagram.com/lyrian_" target="_blank">
+<a href="https://instagram.com/LyrianFernandes" target="_blank">
 <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
 <a href = "mailto:lyrif019@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
