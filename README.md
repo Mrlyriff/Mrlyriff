@@ -14,7 +14,7 @@ Well, to be honest, I am interested in software development and although most of
 Me chamo Lyrian, tenho 19 anos e sou do interior do RN, Brasil e comecei a ter contato com a tecnologia em 2014, após um longo tempo sem utilizar da computação decidi entrar para a faculdade.
 Atualmente estou cursando Tecnologia da informação pela Universidade Federal Rural do Semi-Árido(UFERSA) Campus Pau Dos Ferros.
 
-Bem, para ser honesta, estou interessado em desenvolvimento de software e, embora na maior parte do tempo eu tenha usado a linguagem C, estou aberta e sempre disposta a aprender algumas novas habilidades, ferramentas e linguagens.
+Bem, para ser honesta, estou interessada em desenvolvimento de software e, embora na maior parte do tempo eu tenha usado a linguagem C, estou aberta e sempre disposta a aprender algumas novas habilidades, ferramentas e linguagens.
 
 ## Contatos:
 <div>
