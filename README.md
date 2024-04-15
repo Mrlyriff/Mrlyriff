@@ -1,5 +1,37 @@
-### Hi there 👋
 
+### 👋 Hello! Welcome to my Github profile.
+<p>
+My name is Lyrian, I'm 19 years old and I'm from the RN, Brazil and I started to have contact with technology in 2014, after a long time without using computers I decided to go to college.
+Currently studying Information Technology at the Universidade Federal Rural do Semi-Árido (UFERSA) Campus Pau Dos Ferros.
+
+Well, to be honest, I am interested in software development and although most of the time I have used the C language, I am open and always willing to learn some new skills, tools and languages.
+<p>
+
+<p>
+
+  
+   ### [Portuguese]
+Me chamo Lyrian, tenho 19 anos e sou do interior do RN, Brasil e comecei a ter contato com a tecnologia em 2014, após um longo tempo sem utilizar da computação decidi entrar para a faculdade.
+Atualmente cursando Tecnologia da informação pela Universidade Federal Rural do Semi-Árido(UFERSA) Campus Pau Dos Ferros.
+
+Bem, para ser honesta, estou interessado em desenvolvimento de software e, embora na maior parte do tempo eu tenha usado a linguagem C, estou aberta e sempre disposta a aprender algumas novas habilidades, ferramentas e linguagens.
+
+## Contatos:
+<div>
+<a href="https://instagram.com/lyrian_" target="_blank">
+<img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
+<a href = "mailto:lyrif019@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
+
+<div>
+<a href="https://github.com/Mrlyriff">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Mrlyriff=LyrianFernandes&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Mrlyriff=LyrianFernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+![Snake animation](https://github.com/Mrlyriff/Mrlyriff/blob/output/github-contribution-grid-snake.svg)
+  
 <!--
 **Mrlyriff/Mrlyriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
