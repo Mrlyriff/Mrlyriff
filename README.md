@@ -28,6 +28,12 @@ Bem, para ser honesta, estou interessado em desenvolvimento de software e, embor
 ![Mrlyriff GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrlyriff&show_icons=true&count_private=true&theme=dark)
 ![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrlyriff&layout=compact&theme=dark)
 
+
+<div class="tenor-gif-embed" data-postid="22746518" data-share-method="host" data-aspect-ratio="0.775" data-width="100%">
+  <a href="https://tenor.com/view/yes-off-work-im-dancing-gif-22746518">
+    Yes Off GIF
+  </a>from <a href="https://tenor.com/search/yes-gifs">Yes GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js">
+  </script>
   
 <!--
 **Mrlyriff/Mrlyriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
