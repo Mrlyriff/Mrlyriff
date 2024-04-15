@@ -26,8 +26,8 @@ Bem, para ser honesta, estou interessado em desenvolvimento de software e, embor
 
 <div>
 <a href="https://github.com/Mrlyriff">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Mrlyriff=LyrianFernandes&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Mrlyriff=LyrianFernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Mrlyriff&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Mrlyriff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ![Snake animation](https://github.com/Mrlyriff/Mrlyriff/blob/output/github-contribution-grid-snake.svg)
