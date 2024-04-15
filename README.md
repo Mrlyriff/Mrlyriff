@@ -24,11 +24,10 @@ Bem, para ser honesta, estou interessado em desenvolvimento de software e, embor
 <a href = "mailto:lyrif019@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div>
 
-<div>
-<a href="https://github.com/Mrlyriff">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Mrlyriff&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Mrlyriff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
+![Mrlyriff GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrlyriff&show_icons=true&count_private=true&theme=dark)
+![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrlyriff&layout=compact&theme=dark)
+
   
 ![Snake animation](https://github.com/Mrlyriff/Mrlyriff/blob/output/github-contribution-grid-snake.svg)
   
