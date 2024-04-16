@@ -28,11 +28,6 @@ Bem, para ser honesta, estou interessada em desenvolvimento de software e, embor
 ![Mrlyriff GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrlyriff&show_icons=true&count_private=true&theme=dark)
 ![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrlyriff&layout=compact&theme=dark)
 
-<div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 
 <!--
